@@ -1,0 +1,30 @@
+# User-generated / dynamic content
+admin/upload/*
+
+# PHPMailer (if installed manually and you want to exclude it)
+# admin/phpmailer/
+
+# If using Composer, ignore vendor
+/vendor/
+
+# System files
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# IDE/editor configs
+.vscode/
+.idea/
+
+# Optional: OS generated
+.DS_Store
+Thumbs.db
+
+
+
+
+
+
+
